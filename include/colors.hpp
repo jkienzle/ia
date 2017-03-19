@@ -60,10 +60,10 @@ const Clr clr_nosf_teal_drk     = { 20,  54,  51, 0};
 //-----------------------------------------------------------------------------
 const Clr clr_text              = clr_white;
 
-const Clr clr_menu_highlight    = clr_brown_gray;
-const Clr clr_menu_drk          = clr_brown_gray_drk;
+const Clr clr_menu_highlight    = clr_gray;
+const Clr clr_menu_drk          = clr_gray_drk;
 
-const Clr clr_popup_label       = clr_brown_gray_drk;
+const Clr clr_popup_label       = clr_gray_drk;
 
 const Clr clr_title             = clr_brown_gray;
 
